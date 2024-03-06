@@ -1,0 +1,22 @@
+{
+  "name": "quiz-icon",
+  "version": "1.0.0",
+  "description": "Quiz",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dickifatma/henlo-tea.git"
+  },
+  "keywords": [
+    "quiz"
+  ],
+  "author": "wiqi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dickifatma/henlo-tea/issues"
+  },
+  "homepage": "https://github.com/dickifatma/henlo-tea#readme"
+}
