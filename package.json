@@ -1,6 +1,6 @@
 {
   "name": "quiz-icon",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Quiz",
   "main": "start.js",
   "scripts": {
@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/dickifatma/henlo-tea/issues"
   },
-  "homepage": "https://github.com/dickifatma/henlo-tea#readme"
+  "homepage": "https://github.com/dickifatma/henlo-tea#readme",
+  "dependencies": {
+    "jumlah-tiga-angka": "^1.0.0"
+  },
+  "devDependencies": {}
 }
